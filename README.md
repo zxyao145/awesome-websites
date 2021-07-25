@@ -1,11 +1,21 @@
+# Introduce
 
+Collect interesting or meaningful websites in the world. And this is the data source of [Anisdora-ChromeExt](https://github.com/zxyao145/Anisdora-ChromeExt) too. If you are interested, or you know some interesting websites, **you are welcome** to contribute through issue, Thank you! Please provide the following information in the issue.
 
-| url                        | site name | tags                                       | brief introduction                                           |
-| -------------------------- | --------- | ------------------------------------------ | ------------------------------------------------------------ |
-| https://www.wikipedia.org/ | wikipedia | ["Free(免费)", "Knowledge(知识)"]          | Online encyclopedia                                          |
-| https://www.zhihu.com/     | 知乎      | ["问答(Q&A)"]                              | A Chinese Q & A community                                    |
-| "https://www.quora.com/"   | Quora     | ["Q&A(问答)"]                              | Social Q & A platform                                        |
-| "https://new.shuge.org/"   | 书格      | ["古籍(Ancient book)", "Free(免费)"]       | A free and open online library of ancient books. We are committed to open sharing, introducing and recommending valuable rare ancient books, and encourage the digital archiving of cultural and artistic works. |
-| https://meiriyiwen.com/    | 每日一文  | ["阅读(Read)", "随机文章(Random Article)"] | Randomly display an article                                  |
-| https://www.guokr.com/     | 果壳      | ["科普(Popular Science)"]                  | Popular science website                                      |
+1. **url:** the url of the website
+2. **site name:** the website's name
+3. **tags:** the website's tags
+4. **brief introduction:** a brief introduction to this website
 
+# Data
+
+[list.md](./list.md)
+
+# Reference
+
+1. [有趣的网站有哪些推荐？](https://www.zhihu.com/question/19676830)
+2. [有趣网址之家](https://youquhome.com/)
+
+# License
+
+MIT
