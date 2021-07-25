@@ -16,6 +16,7 @@ namespace AwesomeWebsitesExcelTool
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("请输入Excel地址: ");
             var excelPath = Console.ReadLine();
             if (excelPath!.StartsWith("\""))
             {
@@ -81,11 +82,11 @@ namespace AwesomeWebsitesExcelTool
 
         static void OutputToMd(DataList list, string outputPath)
         {
-            using var fs = new FileStream(outputPath, FileMode.OpenOrCreate, FileAccess.Write,FileShare.Read);
+            using var fs = new FileStream(outputPath, FileMode.OpenOrCreate, FileAccess.Write, FileShare.Read);
             using var sw = new StreamWriter(fs, Encoding.UTF8);
 
-            sw.WriteLine("**Update:** " + list.Update);
-            sw.WriteLine("**Websites:** ");
+            sw.WriteLine("**Update:** " + list.Update + Environment.NewLine);
+            sw.WriteLine("**Websites:** " + Environment.NewLine);
 
             sw.WriteLine(@"| url| site name | tags| brief introduction|
 | --------------- | --------------- | --------------- | --------------- |");
@@ -118,9 +119,9 @@ namespace AwesomeWebsitesExcelTool
     class DataList
     {
         [JilDirective("update")]
-        public string Update { get; set; } = DateTime.Now.ToString("yyyyMMdd");
+        public string Update { get; set; } = DateTime.Now.ToString("yyyyMMddHHmmss");
 
-        [JilDirective("data")] 
+        [JilDirective("data")]
         public List<UrlInfo> Data { get; set; } = new List<UrlInfo>();
 
         public void AddUrlInfo(UrlInfo urlInfo)
