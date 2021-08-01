@@ -75,7 +75,18 @@ namespace AwesomeWebsitesExcelTool
 
         static void OutputJson(DataList list, string outputPath)
         {
-            var json = JSON.Serialize(list);
+            //var json = JSON.Serialize(list);
+
+            var data = list.Data.Select(e =>
+            {
+                return new string[] {e.Url};
+            }).ToList();
+            var obj = new
+            {
+                update = list.Update,
+                data = data
+            };
+            var json = JSON.SerializeDynamic(obj);
 
             File.WriteAllText(outputPath, json);
         }

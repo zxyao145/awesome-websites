@@ -1,4 +1,4 @@
-﻿**Update:** 20210725225108
+﻿**Update:** 20210801220128
 
 **Websites:** 
 
@@ -59,4 +59,73 @@
 | https://www.jiumodiary.com/ | 鸠摩搜索 |  文档搜索(Document search),电子书(E-book) | 电子书搜索与下载 |
 | https://www.similarsitesearch.com/ | Similar Site Search |  Search,WebSite | similarsitesearch.com is a platform for finding relations between a variety of websites. |
 | https://www.wuxiaworld.com/ | WuxiaWorld |  Wuxia,Novel,Translate | Chinese martial arts novels translated by foreigners. |
+| https://gallerix.ru/ | GALLERIX |  World famous paintings,Culture | World famous painting archives. Including more than 40000 artists from our contemporaries to old masters who have become famous. More than 500000 paintings from private collections and the best museums in the world. Open 24 hours, no weekends, free admission. |
+| https://makezine.com/ | Makezine |  DIY,Geek | Make: DIY Projects and Ideas for Makers.Celebrates your right to tweak, hack, and bend any technology to your will. |
+| https://www.psychologytoday.com/intl | Psychology Today |  Psychology | View the latest from the world of psychology: from behavioral research to practical guidance on relationships, mental health and addiction. Find help from our directory of therapists, psychologists and counselors. |
+| https://www.youtube.com/c/theschooloflifetv | The School of Life Channel of Youtube |  Life,Psychology,Philosophy | The School of Life is a collective of psychologists, philosophers and writers devoted to helping people lead calmer and more resilient lives. We share ideas on how to understand ourselves better, improve our relationships, take stock of our careers and deepen our social connections - as w |
+| https://www.chalkstreet.com/ | ChalkStreet |  Learning | ChalkStreet is an online learning marketplace which provides high quality courses from the best teachers. ChalkStreet aspires to make learning a habit. |
+| https://gohighbrow.com/ | HIGHBROW |  Learning,Expand knowledge | Learn Something New Every Day. Each morning, wake up to a new 5-minute lesson delivered to your email inbox. Choose from 300+ topics. |
+| http://instanerd.me/ | Instanerd |  Learning,Expand knowledge | Learn some interesting knowledge. |
+| https://www.flowkey.com/ | Flowkey |  Learning,Piano | Learning piano Online |
+| https://bigthink.com/ | Big Think |  Think,Article,Pioneer | Big think. |
+| https://www.pluralsight.com/ | Pluralsight |  Code,Learning | Pluralsight is the technology workforce development company that helps teams know more and work better together with stronger skills, improved processes and informed leaders. |
+| https://ideas.ted.com/ | IDEAS.TED.COM |  Think,Idea | Explore ideas worth spreading |
+| https://www.wikiwand.com/ | Wikiwand |  Wikipedia,Reader,Software | The world's leading Wikipedia reader |
+| https://www.uopeople.edu/ | Uopeople |  Self-learning | University of the People is a tuition-free, American accredited, online college. Higher-education is now more accessible than ever. |
+| https://www.opensesame.com/ | OpenSesame |  Self-learning | Transform your workforce with thousands of eLearning courses from the world’s top publishers. Our engaging online courses work perfectly in your LMS. |
+| https://www.creativelive.com/ | CreativeLive |  Self-learning | Online classes in photography, art, design, craft &amp; DIY, marketing, business, and entrepreneurship. |
+| https://www.thinkful.com/ | Thinkful |  One-on-one,Code,Data Science,Self-learning | Thinkful is a career accelerator that gets graduates careers in tech. Learn data science or learn to code with a bootcamp-style curriculum and 1-on-1 mentorship. |
+| https://zidbits.com/ | Zidbits |  Learning | Learn interesting things and explore the mysteries of life. |
+| https://digital-photography-school.com/tips/ | Digital Photography School |  Photography,Course,Tips | Photography skills and tutorials. |
+| https://www.scientificamerican.com/ | Scientific American |  Science | Scientific American is the essential guide to the most awe-inspiring advances in science and technology, explaining how they change our understanding of the world and shape our lives. |
+| https://www.p2pu.org/ | P2PU |  Education,Self-learning | Grassroots community supporting equitable, empowering peer learning in public spaces worldwide. |
+| https://ocw.mit.edu/index.htm | MIT OpenCourseWare |  Self-learning,Online Course | MIT OpenCourseWare is a web-based publication of virtually all MIT course content. OCW is open and available to the world and is a permanent MIT activity. |
+| https://www.edx.org/ | edX |  Self-learning,Online Course | Access 2000 free online courses from 140 leading institutions worldwide. Gain new skills and earn a certificate of completion. |
+| https://www.mentalfloss.com/ | Mental Floss |  Magazine,Fun,Trivia,Quizzes | Test your knowledge with amazing and interesting facts, trivia, quizzes, and brain teaser games on MentalFloss.com. |
+| https://www.datacamp.com/ | DataCamp |  Learning,Data Science,R,Python | Learn Data Science from the comfort of your browser, at your own pace with DataCamp's video tutorials & coding challenges on R, Python, Statistics & more. |
+| https://www.coffeestrap.com/ | CoffeeStrap |  Learning,Language | Learn how to speak fluently by talking with people like you. |
+| https://aeon.co/ | Aeon |  Think,Culture,Idea,Science,Magazine | Aeon is a magazine of ideas and culture. We publish in-depth essays, incisive articles, and a mix of original and curated videos — free to all. |
+| https://nautil.us/ | Nautil |  Science,Magazine | Nautilus is a different kind of science magazine. We deliver big-picture science by reporting on a single monthly topic from multiple perspectives. Read a new chapter in the story every Thursday. |
+| https://pdfbear.com | PDFBEAR |  Pdf,Tools | 100% Free online platform that converts, edits and transforms PDF files. We make sure that you have the right conversion tool at your disposal. |
+| https://www.memrise.com/ | Memrise |  Language,Learning | Learn a language with thousands of video clips of real native speakers, fun and effective games to practice your skills. |
+| https://curious.com/ | Curious |  Learning,Cooking,Photography,Excel,Math | A daily learning workout with daily curios, challenging puzzles, and 25,000+ video lessons recommended just for you. |
+| http://nowiknow.com/ | NowIKnow |  Learning,By-Email | Learn new things by email every day. |
+| https://www.gushiwen.cn/ | 古诗文网 |  古诗,古词,古文 | 专注于古诗文服务，致力于让古诗文爱好者更便捷地发表及获取古诗文相关资料。 |
+| http://spray.training/ | spray.training |  Spray,Training,Game | FPS game gun pressing training |
+| https://www.zwcsm.com/ | 今天中午吃什么？ |  选择困难症,吃饭 | 今天中午吃什么选择 |
+| https://www.nihaowua.com/ | 你好污啊 |  撩汉/撩妹,套路,金句 | 撩汉/撩妹金句 |
+| https://fakeupdate.net/ | FakeUpdate |  OS,Software,Update,Fake | Windows or MacOs or other software with fake update screens. |
+| https://clash.me/ | Clash |  Audio experiment,Message | Clash allows you to type messages linked from popular music, movies, TV, YouTube and countless other sources. Or assign your favorite clips to a button to play whenever the time is right. |
+| https://happyhappyhardcore.com/ | happy happy hardcore |  X | X |
+| http://itneverhitsthecorner.com/ | it never hits the corner |  Classic | Classic DVD playback. |
+| https://neave.tv/ | Neave.TV |  X | Channel-hop through a collection of weird and bewildering videos. |
+| https://rainymood.com/ | Rainy Mood |  Sound,Rainy | Rain Sounds. |
+| https://virtocean.com/ | Virtocean |  Sound,Ocean | Ocean sounds. |
+| https://purrli.com/ | Purrli |  Cat,Purr | Purrli recreates the sound and the presence of a cat. |
+| https://www.meteorshowers.org/ | Meteor shower |  Meteor shower,3D | 3D visualization of NASA meteor shower data. |
+| http://www.yini.org/ | 秘密花园 |  Literature,X | X |
+| https://nathanfriend.io/inspiral-web/ | Inspiral Web |  Flowering curve,Inspiral | The web version of the Inspiral app. |
+| https://nipponcolors.com/ | NIPPON COLORS |  Colors,Nippon colors | The Traditional Colors of Nippon (Japan). |
+| http://zhongguose.com/ | 中国色 |  中国,颜色 | 提供各种中国的传统颜色的名称，CMYK值，RGB值，16进制表示。 |
+| https://www.prettyscale.com/ | Am I pretty or ugly? |  Test,Face | Face beauty analysis test. |
+| https://dccxi.com/trust/ | 信任的进化 |  信任,人性,游戏 | 一个关于我们为什么和如何相互信任的游戏。 |
+| https://taiko.bui.pm/ | 太鼓ウェブ |  Game,太鼓の達人 | パソコンとスマホのブラウザ向けの太鼓の達人シミュレータ 🥁 Taiko no Tatsujin rhythm game simulator for desktop and mobile browsers |
+| http://www.sketchswap.com/ | Sketch Swap |  Sketch,Swap | Submit your own paintings in exchange for others' paintings |
+| https://lines.frvr.com/ | Play Lines FRVR |  Game | Beautiful, easy to learn dots and lines puzzle game |
+| https://www.getbadnews.com/ | Bad News |  Game | Drop all pretense of ethics and choose the path that builds your persona as an unscrupulous media magnate. Your task is to get as many followers as you can while slowly building up fake credibility as a news site. |
+| http://www.foddy.net/ | Foddy.net |  Game,QWOP,GIRP,CLOP | Games by Bennett Foddy |
+| https://aidn.jp/mikutap/ | Mikutap |  Game,Mikutap | クリック/タッチすることで、モーショングラフィックスと共に音を奏でるインタラクティブコンテンツの初音ミク版。 |
+| https://ncase.me/door/ | it's a(door)able |  Game,X | A one-minute minigame.Finally, there is an "I" ♥ U" |
+| https://tholman.com/texter/ | Texter |  Draw,Words | A creative tool that allows you to draw with words. |
+| http://magickeyboard.io/ | Magic Keyboard |  Game,Relax | Reduce pressure. |
+| http://findingho.me/ | // Finding Home \\ |  Game,Relax,Music | Finding Home is an interactive experiment. Move your mouse to interact. |
+| http://www.staggeringbeauty.com/ | Staggering Beauty |  Game | X |
+| https://dos.zczc.cz/ | 在线 DOS 游戏 |  Game | 在浏览器中在线游玩 DOS 游戏与 DOS 游戏下载！🎮 |
+| http://www.famicn.com/ | 中文家用游戏博物馆 |  Game,Museum,History | 体验那些历史上上由中国大陆及港澳台开发者开发的，以家用游戏机和掌上游戏机为平台的电子游戏。 |
+| https://www.oldmanemu.net/ | 老男人游戏网 |  Game,PSP,PSV,PS3 | 仓储式主机资源站。 |
+| https://neave.com/ | Neave Interactive |  Interactive Games,Collection | Apps from Neave Interactive, including Zoom Earth, Webcam Toy, Strobe Illusion, Bouncy Balls and more. |
+| https://www.bestgames.com/ | BestGames.Com |  Game | We offer you the best online games chosen by the editors of bestgames.com. Including action, multiplayer, shooting, Racing, sport, io games and more at bestgames.com. |
+| http://www.igcd.net/ | IGCD.net |  Game | Internet Game Cars Database. |
+| http://info.cern.ch/ | http://info.cern.ch |  Website,Most X | The first website in the world. |
+| https://worlds-highest-website.com/ | The World’s Highest Website |  Website,Most X | The world's highest website |
 
