@@ -16,8 +16,17 @@ namespace AwesomeWebsitesExcelTool
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("请输入Excel地址: ");
-            var excelPath = Console.ReadLine();
+            string excelPath;
+            if ((args?.Length ?? 0) == 0)
+            {
+                Console.WriteLine("请输入Excel地址: ");
+                excelPath = Console.ReadLine();
+            }
+            else
+            {
+                excelPath = args[0];
+            }
+            
             if (excelPath!.StartsWith("\""))
             {
                 excelPath = excelPath.Substring(1, excelPath.Length - 2);
